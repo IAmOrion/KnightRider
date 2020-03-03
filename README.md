@@ -34,6 +34,9 @@ https://www.aliexpress.com/item/32965500244.html
 You will also want some kind of small waterproof container to put your circuit in
 
 # Wiring
+The basic wiring is as follows... How you connect the 12v input is up to you and depends on your usage scenario.
+In a car for example, I recommend using a 12v remote relay.
+
 ![Wiring](https://raw.githubusercontent.com/IAmOrion/KnightRider/master/wiring.png)
 
 # Code
