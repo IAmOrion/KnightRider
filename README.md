@@ -34,7 +34,7 @@ https://www.aliexpress.com/item/32965500244.html
 You will also want some kind of small waterproof container to put your circuit in
 
 # Wiring
-![GitHub Logo](/images/logo.png)
+![Wiring](https://raw.githubusercontent.com/IAmOrion/KnightRider/master/wiring.png)
 
 # Code
 Whilst you don't need to know much about programming to get this working, You do need to somewhat confident as a computer user in order to upload the code to your Arduino.  
