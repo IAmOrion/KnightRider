@@ -40,7 +40,7 @@ In a car for example, I recommend using a 12v remote relay.
 ![Wiring](https://raw.githubusercontent.com/IAmOrion/KnightRider/master/wiring.png)
 
 # Code
-Whilst you don't need to know much about programming to get this working, You do need to somewhat confident as a computer user in order to upload the code to your Arduino.  
+Whilst you don't need to know much about programming to get this working, You do need to be somewhat confident as a computer user in order to upload the code to your Arduino.  
 
 1) Download the Arduino IDE from https://www.arduino.cc/en/Main/Software 
 
